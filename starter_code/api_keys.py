@@ -1,3 +1,4 @@
+.gitignore
 # OpenWeatherMap API Key
 weather_api_key = "5eafa03c6796facca4e35b9022630b88"
 
